@@ -91,7 +91,7 @@ class: text-center
 
 <img
       class="absolute top-50 left-85 right-0 bottom-0"
-      src="Jenkins.png"
+      src="/jenkins.png"
       alt=""
     />
  
@@ -184,7 +184,7 @@ class: text-center
 
 # Kratix
 
-<img class="absolute top-10 left-12 right-0 bottom-0" src="clusters.jpg">
+<img class="absolute top-10 left-12 right-0 bottom-0" src="/clusters.jpg">
 
 
 <!--
